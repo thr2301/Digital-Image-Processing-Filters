@@ -15,7 +15,7 @@ This project contains Python scripts for various image processing tasks implemen
 
 ## Introduction
 
-This repository contains Python scripts for performing several fundamental image processing tasks. The scripts utilize NumPy for numerical operations and matplotlib for visualizations.
+This repository contains Python scripts for performing several fundamental image processing tasks. The scripts utilize NumPy for numerical operations and matplotlib for visualizations.The common.py was provided by the professor and includes some helper functions.
 
 ## Functionality
 
