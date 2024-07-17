@@ -22,6 +22,7 @@ This repository contains Python scripts for performing several fundamental image
 ### Image Patches
 
 Extracts patches from an input image and normalizes them based on their mean and standard deviation.
+![3_patches](https://github.com/user-attachments/assets/a01d9743-200b-4665-9c76-232fe6903a64)
 
 ### Convolution
 
