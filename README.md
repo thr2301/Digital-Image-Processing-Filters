@@ -15,7 +15,7 @@ This project contains Python scripts for various image processing tasks implemen
 
 ## Introduction
 
-This repository contains Python scripts for performing several fundamental image processing tasks. The scripts utilize NumPy for numerical operations and matplotlib for visualizations.The common.py was provided by the professor and includes some helper functions.
+This repository contains Python scripts for performing several fundamental image processing tasks. The scripts utilize NumPy for numerical operations and matplotlib for visualizations.The `common.py` was provided by the professor and includes some helper functions.
 
 ## Functionality
 
@@ -51,8 +51,9 @@ Applies LoG filters to detect edges and points of interest in an image.
 ![q1_LoG1](https://github.com/user-attachments/assets/a6ed2c1d-d052-4098-881e-dca97b53f5a1)
 
 
-Each function is implemented in a modular way within the `main.py` script, demonstrating various image processing techniques.
-## Usage
+Each function is implemented in a modular way within the `filters.py` script, demonstrating various image processing techniques.
+
+### Usage
 
 To run the game use:
 
